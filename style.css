@@ -43,3 +43,20 @@ movie_head {
 .movie_text span {
     color: #ff7700;
 }
+
+.environment_li {
+    margin-top: 10px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 9px;
+}
+
+.environment_li img {
+    border-radius: 30px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
